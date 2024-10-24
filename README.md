@@ -23,7 +23,7 @@ This repository contains the implementation of the paper "AI-Driven Recruitment:
    The notebook (`finetuning_llama2.ipynb`) includes code for fine-tuning the LLaMA2 model on the synthetic dataset, as well as the results obtained. The code covers pre-processing, training, evaluation, and saving the fine-tuned model.
 
 3. **Fine-Tuning Mistral7B**:  
-   Similarly, the notebook (`finetuning_mistral7b.ipynb`) provides the entire process for fine-tuning the Mistral7B model on the same dataset. Results, comparisons, and insights are documented at the end of this notebook.
+   Similarly, the notebook (`finetuning_mistral7b.ipynb`) provides the entire process for fine-tuning the Mistral7B model on the same dataset. Sample Results are documented at the end of this notebook.
 
 4. **Research Paper**:  
    You can access the full research paper outlining the approach, methodology, experiments, and results in greater detail through [this link](https://drive.google.com/file/d/1Y4gk-bRUmloiVAqDgQuGS8e-qpkfikx2/view).
