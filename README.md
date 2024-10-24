@@ -37,3 +37,8 @@ The training and testing datasets for the instruction-tuning experiments have be
 
 This dataset includes the instruction-tuned training and test datasets used for both the LLaMA2 and Mistral7B models.
 
+## Useful Resources
+During the process of fine-tuning Mistral7B, the following repository was extremely helpful:
+- [Brevdev's Mistral Fine-Tuning Example](https://github.com/brevdev/notebooks/blob/main/mistral-finetune-own-data.ipynb): This notebook provides clear examples and instructions on fine-tuning Mistral on custom datasets, which guided a lot of the work.
+
+
