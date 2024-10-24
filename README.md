@@ -1,6 +1,6 @@
 # ResumAI ("resume" + "AI")
 
-An intelligent resume screening and ranking system powered by Large Language Models. Resumaai uses fine-tuned Mistral-7B with a mathematical weighted scoring algorithm as an apporach to automatically evaluate and rank resumes against job descriptions.
+An intelligent resume screening and ranking system powered by Large Language Models. ResumAI uses fine-tuned Mistral-7B with a mathematical weighted scoring algorithm as an apporach to automatically evaluate and rank resumes against job descriptions.
 
 ## Key Features
 - 🤖 Fine-tuned LLM for accurate resume analysis
@@ -11,4 +11,4 @@ An intelligent resume screening and ranking system powered by Large Language Mod
 - 📝 Detailed explanations for each resume score
 
 ## About
-Resumaai streamlines the recruitment process by automating resume screening while maintaining human-like evaluation quality. The system leverages state-of-the-art LLM technology combined with a mathematical scoring model to provide consistent, unbiased, and explainable resume rankings.
+ResumAI streamlines the recruitment process by automating resume screening while maintaining human-like evaluation quality. The system leverages state-of-the-art LLM technology combined with a mathematical scoring model to provide consistent, unbiased, and explainable resume rankings.
