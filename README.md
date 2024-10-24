@@ -1,4 +1,4 @@
-# Resumai ("resume" + "AI")
+# ResumAI ("resume" + "AI")
 
 An intelligent resume screening and ranking system powered by Large Language Models. Resumaai uses fine-tuned Mistral-7B with a mathematical weighted scoring algorithm as an apporach to automatically evaluate and rank resumes against job descriptions.
 
